@@ -4,11 +4,10 @@
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-选中存款列表中进行的，活期存款（只有活期才可以解锁）
+选中存款列表中进行的，点击 锁 图标，进行解锁  
+   
 
-![](../.gitbook/assets/image%20%2813%29.png)
-
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/5e302a3f-87fd-4bd7-87cc-202d41b18a67.jpeg)
 
 点击解锁后，存款就会取消，之后就可以进行取款操作
 
