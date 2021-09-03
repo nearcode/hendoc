@@ -5,7 +5,7 @@
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
-点击底部”DApp”，在搜索框，搜索“hens.finance”
+点击底部”DApp”，在HECO找到HEN BANK
 
-![](../.gitbook/assets/image-1-.png)
+![](../.gitbook/assets/2651630647954_.pic_hd.png)
 
