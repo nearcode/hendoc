@@ -4,8 +4,7 @@
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
-选中存款列表中进行的，点击 锁 图标，进行解锁  
-   
+选中存款列表中进行的，点击 锁 图标，进行解锁
 
 ![](../.gitbook/assets/5e302a3f-87fd-4bd7-87cc-202d41b18a67.jpeg)
 
